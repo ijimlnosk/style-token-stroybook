@@ -27,35 +27,12 @@ const sizes = {
     select: {
         small: {
             padding: "8px 12px",
-            border: "1px solid #ccc",
-            borderRadius: "4px",
         },
         medium: {
             padding: "12px 16px",
-            border: "1px solid #ccc",
-            borderRadius: "4px",
         },
         large: {
             padding: "16px 20px",
-            border: "1px solid #ccc",
-            borderRadius: "4px",
-        },
-    },
-    checkbox: {
-        small: {
-            width: "10px",
-            height: "10px",
-            borderRadius: "4px",
-        },
-        medium: {
-            width: "20px",
-            height: "20px",
-            borderRadius: "4px",
-        },
-        large: {
-            width: "30px",
-            height: "30px",
-            borderRadius: "4px",
         },
     },
 };
